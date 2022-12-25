@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8/IgVDJwF1zFcuA9XG1/A4ADKhDY6dCkVfnk+SOxrbGDFv6/jnMCfi46oQnskfSol1Bnsl3eG/YLyWgYQAd0w==",
+  "success": true,
+  "projectFilePath": "/Users/kerem/Desktop/cms2/cms/cms.csproj",
+  "expectedPackageFiles": [
+    "/Users/kerem/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.12/microsoft.aspnetcore.spaproxy.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
