@@ -13,7 +13,7 @@ export class Counter extends Component {
     this.setState({
       currentCount: this.state.currentCount + 1
     });
-    console.log('kerembilim');
+    console.log('kerembilim1');
   }
 
   render() {
