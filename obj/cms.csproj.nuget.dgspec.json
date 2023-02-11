@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kerem/Desktop/cms2/cms/cms.csproj": {}
+    "/Users/kerem/Desktop/CMSApp/cms.csproj": {}
   },
   "projects": {
-    "/Users/kerem/Desktop/cms2/cms/cms.csproj": {
+    "/Users/kerem/Desktop/CMSApp/cms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kerem/Desktop/cms2/cms/cms.csproj",
+        "projectUniqueName": "/Users/kerem/Desktop/CMSApp/cms.csproj",
         "projectName": "cms",
-        "projectPath": "/Users/kerem/Desktop/cms2/cms/cms.csproj",
+        "projectPath": "/Users/kerem/Desktop/CMSApp/cms.csproj",
         "packagesPath": "/Users/kerem/.nuget/packages/",
-        "outputPath": "/Users/kerem/Desktop/cms2/cms/obj/",
+        "outputPath": "/Users/kerem/Desktop/CMSApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kerem/.nuget/NuGet/NuGet.Config"

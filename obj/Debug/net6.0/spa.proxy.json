@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:44484",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "/Users/kerem/Desktop/cms2/cms/ClientApp/",
+"WorkingDirectory": "/Users/kerem/Desktop/CMSApp/ClientApp/",
 "MaxTimeoutInSeconds": "120"
 }
 }
